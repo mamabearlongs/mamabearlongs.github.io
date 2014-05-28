@@ -1,0 +1,12 @@
+/*Reset CSS*/
+<link type="text/css" rel="stylesheet" href="css/styles1-Services.css">
+
+#Installation Options{
+	font-size: 20px;
+	float: right;
+	margin-left: 600px;
+}
+
+#body{
+	background-color: green;
+}

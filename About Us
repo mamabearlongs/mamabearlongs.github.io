@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="wufoo-z1fgn3ju0ct4xok">
+Fill out my <a href="https://cablecompany.wufoo.com/forms/z1fgn3ju0ct4xok">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.</div>
+<script type="text/javascript">var z1fgn3ju0ct4xok;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'cablecompany',
+'formHash':'z1fgn3ju0ct4xok',
+'autoResize':true,
+'height':'505',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z1fgn3ju0ct4xok = new WufooForm();z1fgn3ju0ct4xok.initialize(options);z1fgn3ju0ct4xok.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+<form name="DummbyInformation" action="mamabearlongs@yahoo.com" method="POST">
+		<label for="fName"> First Name</label>
+		<input type="text" id="fName">
+		<label for="email"> email</label>
+		<input type="email" id="email" required> 
+		<label for="Random">Stuff</label>
+		<input type="color" id="Random">
+		<label for="Pwd">Password</label>
+		<input type="password" id="Pwd"
+		<p>Make some choices</p>
+		<input type="checkbox" name="choices" value"College">College<br />
+		<input type="checkbox" name="choices" value"Career">Career<br />
+		<input type="checkbox" name="choices" value"JobSatisfaction">Job Satisfaction<br />
+<input type="checkbox" name="choices" value"WaterSlides">Really Cool Water Slides<br />
+<p>Pick One<p>
+<input type="radio" name="pickOne" value="Dog">Dog<br />
+		type="radio" name="pickOne" value="Cat">Cat<br />
+		type="radio" name="pickOne" value="Godzilla">Godzilla<br />
+<select>
+	<option value="small">Small</option>
+	<option value="med">Medium</option>
+	<option value="large">Large</option> 
+</select>
+<input type="submit" value="Turn in your junk">
+<button type="button">Submit</button>
+<p><a title+"talk to me" href="mailto:newmusic014@gmail.com?subject=What%20Up">Click Here</a> to email-me.</p>
+</form>
+
+
+
+</body>
+</html>

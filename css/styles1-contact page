@@ -1,0 +1,11 @@
+/*Reset CSS*/
+
+#Foxyform_embed>link>558379{ 
+margin-left: 1100;
+float: right;
+}
+#summary{
+	margin-bottom: 200;
+	margin-left: 500
+	float: right;
+}
