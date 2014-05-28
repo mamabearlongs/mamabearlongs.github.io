@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+	<html>
+		<link 
+		<head>
+			<title> These are the services we offer. </title>
+			</head>
+
+				<div id="body"
+				<body> <p><h1> We offer television, internet, and home telephone services to residential and business customers.  We also serve the Fresno, Clovis, and Madera areas.  The plans that we offer are listed below.  However, if one of the listed plans does not meet your needs, feel free to contact us to create a custom plan.</h1></p>
+<h2> TV plans </h2>
+
+<h4>  <p>Basic Cable: $10.00 a month</p>
+      
+     <p> Standard digital cable: $40.00 a month</p>
+      
+      <p>The Everything tv plan: $60.00 a month</p>
+
+      <h2> Internet Plans</h2>
+
+      <h4><p> Basic Internet 5mbps: $5.00 a month</p>
+
+      <p>Standard Internet: 20mbps: $20.00 a month</p>
+
+      <p>Extremely fast internet: 60mbps: $40.00 a month</p></h2>
+
+      <h2>Home phone plans</h4>
+
+      <h4> <p>Local phone service(900 minutes): $10.00 a month</p>
+
+		<p>Unlimited local phone service: $15.00 a month</p>
+
+		<p>Limited Long-distance phone service(500 minutes): $6.00 a month</p>
+
+		<p>Unlimited long-distance phone service: $15.00a month </p>
+
+		<p>Unlimited local and long-distance phone service: $30.00 a month</p></h4>
+
+    <div id= "Installation Options"
+    <h1>Installation/modem rental options</h1>
+    <h4> Professional Installation by one of our experienced technicians: $10.00</h4>
+    <h4> Self-Installation kit: $0.00</h4>
+    <h4> Internet modem rental: 1.00/month</h4>
+    <h4> Phone/Internet modem rental: 2.00/month</h4>
+    <h4> Additional wiring work not preformed during service installation: $15.00/hr</h4>
+    <h4> Inside wire maintnance plan: $2.50/month</h4>
+    <h4> Standard cable box: 
+    </div>
+
+
+
+    <h2><p>If you are interested in ordering one of these plans or would like to discuss a custom plan, please <a target="_blank"title=  "click here" href="contact us page">click here</a></p></h2>
+
+    </div>
